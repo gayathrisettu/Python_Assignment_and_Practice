@@ -18,11 +18,7 @@ I continuously update this repository as I learn and practice new Python concept
 - Improve problem-solving and logical thinking.
 - Solve real-world programming problems using Python.
 
-## 🛠️ Technologies Used
 
-- **Programming Language:** Python
-- **IDE:** VS Code / Jupyter Notebook
-- **Version Control:** Git & GitHub
 
 ## 📚 Topics Covered
 
@@ -34,58 +30,25 @@ The repository includes practice and assignments on the following topics:
    - Input and Output
    - Operators
 
-2. **Control Flow**
-   - Conditional Statements (if, elif, else)
-   - For Loops
-   - While Loops
-   - Break, Continue, and Pass
 
-3. **Python Data Structures**
+2. **Python Data Structures**
    - Strings
    - Lists
    - Tuples
    - Sets
    - Dictionaries
 
-4. **Functions**
-   - User-Defined Functions
-   - Lambda Functions
-   - Recursive Functions
-   - Built-in Functions
-   - Arguments and Return Values
 
-5. **String Manipulation**
+3. **String Manipulation**
    - String Slicing
    - String Methods
    - String Reversal
    - Pattern-Based Exercises
 
-6. **Advanced Python Concepts**
-   - List Comprehensions
-   - Exception Handling
-   - File Handling
-   - Object-Oriented Programming
-   - Modules and Packages
 
-## 📂 Repository Structure
-
-```text
-Python-Assignments-and-Practice/
-│
-├── Python_Basics/
-├── Control_Flow/
-├── Data_Structures/
-├── Strings/
-├── Functions/
-├── List_Comprehensions/
-├── Exception_Handling/
-├── File_Handling/
-├── OOP/
-│
-└── README.md
 ```
 
-*Note: The folder structure is a suggested organization. Update it based on the actual folders in your repository.*
+
 
 ## 🚀 How to Use This Repository
 
@@ -131,4 +94,3 @@ This is primarily a personal learning repository. Suggestions, feedback, and imp
 
 **Thank you for visiting my Python learning repository!**
 
-Happy Coding! 🐍
